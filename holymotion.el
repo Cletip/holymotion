@@ -241,7 +241,7 @@ defaults to nil."
                              #',cmd
                              :scope 'line)))
 
-(require 'holymotion-lib)
+;;(require 'holymotion-lib)
 
 (provide 'holymotion)
 ;;; holymotion.el ends here
